@@ -1,0 +1,5 @@
+com/example/todos/model/Todo.class
+com/example/todos/service/TodoService.class
+com/example/todos/controller/TodoController.class
+com/example/todos/repository/TodoRepository.class
+com/example/todos/TodosApplication.class
